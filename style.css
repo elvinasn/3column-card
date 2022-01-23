@@ -59,6 +59,7 @@ body{
 p{
     font-size: 15px;
     font-family: 'Lexend Deca', sans-serif;
+    line-height: 1.5;
     color: hsla(0, 0%, 100%, 0.75);
 }
 h1{
